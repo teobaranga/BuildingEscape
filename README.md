@@ -1,6 +1,6 @@
 # BuildingEscape
 
-![](Saved\Screenshots\Windows\HighresScreenshot00000.png)
+![](Saved/Screenshots/Windows/HighresScreenshot00000.png)
 
 A simple game where you must escape a room by stacking enough objects on a pressure plate to keep the exit door open.
 
