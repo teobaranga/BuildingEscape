@@ -3,7 +3,3 @@
 #include "BuildingEscapeGameModeBase.h"
 
 
-void ABuildingEscapeGameModeBase::StartPlay() {
-	UE_LOG(LogTemp, Log, TEXT("Hello"));
-}
-
